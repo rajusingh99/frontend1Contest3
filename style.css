@@ -36,7 +36,7 @@
   position: relative;
 }
 
-.container {
+.containerss {
   position: relative;
 }
 
@@ -130,3 +130,142 @@ letter-spacing: 0.09em;
 .main{
   /* background-color:; */
 }
+
+.head{
+  margin-left: 45%;
+}
+
+
+
+/* 
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #021821;
+    color: #fff;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .navbar li {
+    margin: 0 10px;
+  }
+  .social-icons {
+    display: flex;
+  }
+  
+  .social-icons a {
+    margin-left: 10px;
+  }
+  
+  .span{
+    margin-left: 0px;
+  }
+  /* CSS */
+
+.image-section {
+  position: relative;
+}
+
+.container {
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+}
+
+.section-title {
+  
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+.section-description {
+  font-size: 16px;
+}
+.about-content{
+  /* position: absolute; */
+  margin-left: 193px;
+  margin-top: 1421px;
+  margin-right: 79px;
+   margin-top: 80px;
+   margin-bottom: 50px;
+/* background-color: rebeccapurple; */
+font-family: 'Ruda';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+letter-spacing: 0.09em;
+
+/* color: #FFFFFF; */
+}
+
+.about-image{
+  /* position: absolute; */
+width: 631px;
+height: 506px;
+left: 949px;
+top: 1368px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 74.48%, rgba(0, 0, 0, 0.8) 100%), url(.jpg);
+border-radius: 10px
+}
+
+.menu{
+  position: absolute;
+/* width: 1315px; */
+height: 378px;
+left: 212px;
+right: 212px;
+/* top: px; */
+
+font-family: 'Ruda';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 40px;
+/* or 160% */
+
+letter-spacing: 0.09em;
+}
+
+.findContent{
+  width: 500px;
+height: 181px;
+  margin-left: 186px;
+font-family: 'Ruda';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 40px;
+/* or 160% */
+
+letter-spacing: 0.09em;
+
+}
+.image{
+  margin-left: 31px;
+  margin-right: 186px;
+}
+.location{
+  margin-left: 186px;
+}
+.main{
+  /* background-color:; */
+} */
